@@ -1,7 +1,5 @@
-# f24_team_29
-Repository for f24_team_29
-
-[Project Board](https://github.com/orgs/cmu-webapps/projects/28/)
+# Namas Crystals App
+Repository for Namas Crystals App
 
 ## How to run the project
 
