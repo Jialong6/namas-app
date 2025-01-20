@@ -1,5 +1,5 @@
 # Namas Crystals App
-Repository for Namas Crystals App
+Repository for Namas Crystals App. An e-commerce platform using React (TypeScript) + Django + MySQL, offering dynamic product customization and real-time updates to elevate user shopping experiences
 
 ## How to run the project
 
